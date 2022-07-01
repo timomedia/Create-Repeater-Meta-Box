@@ -1,3 +1,4 @@
+<?php
 // Use below code to show metabox values from anywhere
 $id = get_the_ID();
 $feture_template = get_post_meta($id, 'single_repeter_group', true);
